@@ -1,0 +1,6 @@
+Ile razy wykona sie petla: for (int i=4; i>=-2; i--)
+a) ani razu
+b) nieskonczenie wiele razy
+c) 6
+d) 7
+d

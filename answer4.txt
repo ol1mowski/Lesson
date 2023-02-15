@@ -1,0 +1,6 @@
+Z jakiego przedzialu zostanie wylosowana liczba: rand()%10+2
+a) 0..9
+b) 2..9
+c) 2..11
+d) 0..11
+c

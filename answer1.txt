@@ -1,0 +1,6 @@
+Typ zmiennych o nazwie float przechowuje:
+a) liczby calkowite
+b) napisy
+c) liczby zmiennoprzecinkowe
+d) pojedyncze znaki
+c

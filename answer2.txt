@@ -1,0 +1,6 @@
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcja:
+a) Wait(2000)
+b) Stop(2000)
+c) Delay(2000)
+d) Sleep(2000)
+d

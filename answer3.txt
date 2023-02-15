@@ -1,0 +1,6 @@
+Ktora deklaracja jest zapisana poprawnie?
+a) int x;
+b) integer x;
+c) x:integer;
+d) x=integer;
+a
